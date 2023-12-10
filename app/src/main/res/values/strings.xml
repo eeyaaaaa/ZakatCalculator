@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright &#169; 2023 Hidayah</string>
+    <string name="name">NAME: NURUL HIDAYAH BINTI KAMA AZMAL</string>
+    <string name="gp">GROUP: RSC2405A</string>
+    <string name="id">STUDENT NUMBER: 2021834072</string>
+    <string name="code">PROGRAMME CODE: CS240</string>
+    <string name="link"><a href="https://github.com/Amirul640/Zakat_Calculator.git">Source Code Link</a></string>
+</resources>
